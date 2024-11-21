@@ -10,8 +10,8 @@ Before running the script, make sure to install the necessary dependencies:
 
 ### Python Dependencies
 
-- **pydub**: This library is used for handling audio file conversions, including converting MP4 to MP3.
-- **ffmpeg** or **libav**: These are required by `pydub` to process audio files. They are essential for handling the media decoding and encoding processes.
+- *pydub*: This library is used for handling audio file conversions, including converting MP4 to MP3.
+- *ffmpeg* or *libav*: These are required by `pydub` to process audio files. They are essential for handling the media decoding and encoding processes.
 
 ### Install Dependencies
 

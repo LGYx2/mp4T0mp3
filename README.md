@@ -162,9 +162,8 @@ This script is provided as-is. You are free to use, modify, and distribute it un
 
 By using this script, you agree to the terms mentioned above. If you encounter any issues or need additional features, feel free to contribute by opening an issue or pull request.
 
-## ADDITIONAL INFORMATION
+## Additional Info
 
 if you want a tool to be able to download yt MP4 files in a very simple way check out the [yt-dlp GitHub Repository](https://github.com/yt-dlp/yt-dlp)
-
 ```
 
